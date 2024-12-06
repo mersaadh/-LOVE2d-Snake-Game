@@ -1,0 +1,68 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "0.tmx": {
+            "scale": 1.104375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.2263723825693,
+                "y": 239.95472552348613
+            }
+        },
+        "1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 249,
+                "y": 164
+            }
+        },
+        "2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 438,
+                "y": 201
+            }
+        },
+        "GMA_retro_map.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "F:/love-11.5-win64/projects/snake/maps/lua",
+    "last.imagePath": "F:/love-11.5-win64/projects/snake/assets/sprites/map",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "1.tmx",
+        "0.tmx",
+        "2.tmx"
+    ],
+    "project": "SNAKE_TILE_PROJECT.tiled-project",
+    "recentFiles": [
+        "1.tmx",
+        "0.tmx",
+        "2.tmx",
+        "GMA_retro_map.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
